@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: rgb(51, 50, 50);
+  color: white;
+}
+form {
+  margin-left: 60px;
+  padding-left: 60px;
+  border-radius: 3px;
+  border-width: 2px;
+  border-color: white;
+  border-style: double;
+  margin-right: 1100px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+#cal {
+  margin-left: 50px;
+}
+.im {
+  float: right;
+  width: 300px;
+  padding-right: 300px;
+}
+
+table,
+th,
+td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+
+.pi {
+  padding-left: 60px;
+}

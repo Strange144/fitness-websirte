@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: rgb(51, 50, 50);
+  color: white;
+}
+
+#cc {
+  background-color: black;
+  color: #cc5500;
+}
+
+form {
+  margin-left: 60px;
+  padding-left: 60px;
+  border-radius: 3px;
+  border-width: 2px;
+  border-color: white;
+  border-style: double;
+  margin-right: 800px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#hh {
+  padding-right: 60px;
+}
+
+.mm {
+  float: right;
+  padding-right: 60px;
+}
+
+#gap {
+  padding-left: 60px;
+}

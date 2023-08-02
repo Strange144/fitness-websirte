@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: rgb(51, 50, 50);
+  color: white;
+}
+
+#bg {
+  background-color: black;
+}
+
+#na {
+  text-decoration: none;
+  color: white;
+  padding: 20px 30px;
+  background-color: gray;
+}
+
+#wel {
+  padding-top: 30px;
+}
+
+#img1 {
+  float: left;
+  padding-left: 150px;
+}
+#img2 {
+  float: left;
+  padding-left: 150px;
+}
+
+#img3 {
+  float: left;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+#p1 {
+  float: left;
+  padding-left: 150px;
+}
+#p2 {
+  float: left;
+  padding-left: 100px;
+}
+#p3 {
+  float: left;
+  padding-left: 60px;
+  padding-right: 80px;
+}
+li {
+  padding: 10px 10px;
+  list-style-type: style none;
+}
+
+footer {
+  background-color: black;
+}
+
+#concl {
+  padding-left: 100px;
+  padding-right: 100px;
+}
